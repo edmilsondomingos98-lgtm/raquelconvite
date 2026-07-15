@@ -136,7 +136,7 @@ export default function StepWizard() {
           Com carinho, {PARTY.primeiroNome} 🌺
         </p>
         <p className="text-center text-cream/45 text-[11px] mt-1 tracking-wide">
-          Convite criado pela 26SETENTA
+          Convite criado pela <a href="https://www.instagram.com/26setenta/">26SETENTA</a>
         </p>
       </div>
     </main>

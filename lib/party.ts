@@ -13,7 +13,7 @@ export const PARTY = {
   mapsEmbedQuery:
     "Sal%C3%A3o%20de%20Festas%20-%20Jardim%20dos%20Eventos%2C%20Viana%2C%20Angola",
   contactos: [
-    { nome: "Osvaldo da Silva", papel: "Pai", telefone: "946 441 937" },
-    { nome: "Glória da Silva", papel: "Mãe", telefone: "923 936 907" },
+    { nome: "Osvaldo Silva", papel: "Pai", telefone: "946 441 937" },
+    { nome: "Glória Silva", papel: "Mãe", telefone: "923 936 907" },
   ],
 };
